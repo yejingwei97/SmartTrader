@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+
+# mypy cache
+.mypy_cache/
